@@ -38,14 +38,14 @@ Atualmente, estou me aprofundando em tecnologias modernas como **.NET** e **Azur
 
 ## 📊 Estatísticas do GitHub  
 
-![Thiago's GitHub stats](https://github-readme-stats.vercel.app/api?username=thiagonatividade&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagonatividade&layout=compact&theme=radical)  
+![Thiago's GitHub stats](https://github-readme-stats.vercel.app/api?username=thiagonati&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagonati&layout=compact&theme=radical)  
 
 ---
 
 ## 📈 Minhas Contribuições  
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=thiagonatividade&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=thiagonati&theme=radical)  
 
 ---
 
