@@ -129,10 +129,7 @@ const thiago = {
 <br>
 
 🔹 Desenvolvimento de sistemas de gestão hospitalar  
-🔹 Prontuário eletrônico do paciente (PEP)  
-🔹 Controle de leitos e agendamentos  
-🔹 Integração com equipamentos médicos  
-🔹 Segurança e conformidade com LGPD  
+🔹 Integração com equipamentos médicos   
 🔹 Relatórios e dashboards gerenciais  
 
 </td>
@@ -143,11 +140,9 @@ const thiago = {
 <br>
 
 🔹 Dashboards interativos em tempo real  
-🔹 Análise e visualização de dados  
-🔹 KPIs e métricas de negócio  
+🔹 Análise e visualização de dados   
 🔹 Integração com múltiplas fontes de dados  
 🔹 Automação de relatórios  
-🔹 Soluções personalizadas de BI  
 
 </td>
 </tr>
